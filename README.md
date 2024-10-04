@@ -1,8 +1,15 @@
 ### About Me
 
+<img alt="Night Coding" src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" height=20 align="left"/> &nbsp; I'm currently interning at Shopify for the Retail Payments, responsible for the Shopify Point-of-Sale and Customer View applications\
+🎓 &nbsp;I'm studying Software Engineering along with Combinatorics and Optimization at the University of Waterloo.\
+🖥️ &nbsp;I love to learn new technologies and languages. I am primarily interested in algorithm development, infrastructure, systems design, and compilers. In the future, I hope to pursue a career in Quantitative Finance (but would also love to work on Apple's camera development team 🤔)\
+🧮 &nbsp; Computers and technology aside, I also have a soft spot for math. Currently, I'm really interested in optimization techniques and linear algebra.\
+🎸 &nbsp;I like to spend my free time on Music and Photography. I'm an avid guitar player, and my favourite type of photography is Street and Portrait. \
 
+✉️ &nbsp;You can shoot me an email at muhammadbinali706@gmail.com! 
 
 <img alt="Night Coding" src="./static/images/computer.png" height=250 align="right"/>
+
 
 ### 🛠 &nbsp;Technical Domain
 
