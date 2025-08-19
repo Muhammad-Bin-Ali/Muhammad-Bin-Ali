@@ -1,6 +1,5 @@
 ### About Me
 
-<img alt="Night Coding" src="https://altcoinsbox.com/wp-content/uploads/2022/12/coinbase-logo.png" height=20 align="left"/>I'm an Incoming Software Engineer Intern for the Summer 2025 Cohort at Coinbase.\
 🎓 &nbsp;I'm studying Software Engineering along with Combinatorics and Optimization at the University of Waterloo.\
 🖥️ &nbsp;I love to learn new technologies and languages. I am primarily interested in algorithm development, infrastructure, systems design, and compilers. In the future, I hope to pursue a career in Quantitative Finance (but would also love to work on Apple's camera development team 🤔)\
 🧮 &nbsp; Computers and technology aside, I also have a soft spot for math. Currently, I'm really interested in optimization techniques and linear algebra.\
